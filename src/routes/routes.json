@@ -1,0 +1,9 @@
+{
+  "HOME": "/",
+  "LOGIN": "/login",
+  "CART": "/cart",
+  "CHECKOUT": "/checkout",
+  "CARDPAY": "/cardpay",
+  "UPIPAY": "/upipay",
+  "ORDERPLACED": "/orderplaced"
+}
